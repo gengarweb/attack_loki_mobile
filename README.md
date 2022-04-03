@@ -11,7 +11,7 @@ In this game, you need to use the thunder power of [Thor](https://en.wikipedia.o
 2. Tap the screen of your smartphone and hold to move [Thor](https://en.wikipedia.org/wiki/Thor_\(film\)) and attack [loki](https://en.wikipedia.org/wiki/Loki_(Marvel_Cinematic_Universe))
 3. Enjoy the game:)
 
-![attack loki mobile](/attack_loki_mobile.png)
+[![attack loki mobile](/attack_loki_mobile.png)](https://gengarsworld.com/apps/attack_loki_mobile)
 
 ## Any question?
 You can contact me by [mail](mailto:contactme@gengarsworld.com?subject=Mail%20from%20gengarsworld:) or [line](https://lin.ee/hdVnCuw).
