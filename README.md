@@ -2,7 +2,7 @@
 Hi, I'm Gengar.
 This is a little shooter game called **attack loki (mobile)**, which is maked by [unity](https://unity.com/). This game is in a very early stage and I don't have time to make it more complete, so just let it like that...
 
-This is a mobile version of (**attack loki \(PC\)**)[https://github.com/gengarweb/attack_loki] for android or ios smartphones.
+This is a mobile version of [**attack loki \(PC\)**](https://github.com/gengarweb/attack_loki) for android or ios smartphones.
 
 In this game, you need to use the thunder power of [Thor](https://en.wikipedia.org/wiki/Thor_\(film\)) to defeat the evil [loki](https://en.wikipedia.org/wiki/Loki_(Marvel_Cinematic_Universe)). Hope you enjoy the game:)
 
